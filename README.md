@@ -9,10 +9,12 @@
 * Khuc Thi Xuan Phuong
 * Duong Thuy      
 
-
-
 # PowerPoint Presentation
  https://www.slideshare.net/quannv/bamboo-review-platform-based-on-blockchain
+
+
+# Website
+ https://bambooreview.org
 
 # Inspiration:
 * Binance Smart Chain BLockathon
