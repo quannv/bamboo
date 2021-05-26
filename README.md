@@ -10,7 +10,7 @@
 * Duong Thuy      
 
 # PowerPoint Presentation
- https://www.slideshare.net/quannv/bamboo-review-platform-based-on-blockchain
+ https://www.slideshare.net/quannv/bamboo-review-platform
 
 
 # Website
